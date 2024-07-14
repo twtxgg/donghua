@@ -8,7 +8,7 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "teste",
+      "id": "BigBuckBunnyCatalog",
       "name": "Donghuas"
     }
   ]
