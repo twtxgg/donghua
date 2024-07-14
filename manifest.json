@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "name": "Now.sh Example",
   "description": "Example Add-on",
-  "resources": ["catalog", "meta", "stream"],
+  "resources": ["catalog", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
